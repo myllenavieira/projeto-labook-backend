@@ -42,7 +42,7 @@ Rodar o projeto:
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </div>
 
-# Exemplos de requisição
+# `Exemplos de requisição`
 
 ## Signup
 Endpoint público utilizado para cadastro. Devolve um token jwt.
