@@ -6,7 +6,7 @@
 [Projeto desenvolvido no curso Labenu]. </br>
 O Projeto Labook-backend foi desenvolvido como uma atividade dentro do curso Full-Stack Web Developer da Labenu, o qual consiste na elaboração de uma API que retorna dados conforme as requisições enviadas. Trata-se de uma ferramenta de cadastro de usuários e posts.
 
-A documentação da API pode ser acessada [aqui]().
+A documentação da API pode ser acessada [aqui](https://documenter.getpostman.com/view/24823058/2s93sXcubN).
 
 # `Modo de usar`
 As requisições que podem ser feitas são:  
