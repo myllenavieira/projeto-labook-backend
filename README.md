@@ -12,7 +12,7 @@ A documentação da API pode ser acessada [aqui](https://documenter.getpostman.c
 As requisições que podem ser feitas são:  
 
 - **[POST] signup:** cria um novo usuário, fornecendo (via body) nome, email, password e role.
-- **[GET] login:** faz o login em uma conta, fornecendo (via body) email e password.
+- **[POST] login:** faz o login em uma conta, fornecendo (via body) email e password.
 - **[POST] createPost:** criar um novo post, fornecendo (via body) o conteúdo do post. Necessita de autenticação.
 - **[GET] getPosts:** busca todos os posts. Necessita de autenticação.
 - **[PUT] editPost:** edita um post, fornecendo (via body) o conteúdo a ser alterado post. Necessita de autenticação.
